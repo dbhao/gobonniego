@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/cunnie/gobonniego/mem"
+	"github.com/dbhao/gobonniego/mem"
 	"io"
 	"math/rand"
 	"os"

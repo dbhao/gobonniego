@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/cunnie/gobonniego/mem"
+	"github.com/dbhao/gobonniego/mem"
 	"log"
 	"math/rand"
 )
