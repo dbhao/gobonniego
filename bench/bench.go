@@ -15,7 +15,7 @@ import (
 )
 
 const Version = "1.0.9"
-const Blocksize = 0x1 << 16 // 65,536 bytes, 2^16 bytes
+const Blocksize = 0x1 << 15 // 32K!
 
 // bench.Mark{} -- haha! Get it? "benchmark"!
 type Mark struct {
